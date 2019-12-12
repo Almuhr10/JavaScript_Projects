@@ -1,6 +1,8 @@
-A mini projects using api 
+## A mini projects using api 
 
 Screenshot : 
+
+
 ![](images/demo.png)
 # The first project 
 ***Weather App***
@@ -26,10 +28,10 @@ javascript core functionalities used:
 
 Other technologies used:
 
-1. HTML
-2. Bootstrap
-3. CSS
-4. JQuery
+* HTML
+* Bootstrap
+* CSS
+* JQuery
 
 Screeshot of the application:
 
