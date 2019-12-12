@@ -1,0 +1,10 @@
+body {
+    background-image: url(images/a.jpg);
+    position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#chng-loc {
+    background-color: brown;
+}
